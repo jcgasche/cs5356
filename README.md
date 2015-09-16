@@ -96,15 +96,12 @@ Read about guest lectures [here](course/guest-lectures.md).
 * [Bhagyasri Canumalla](people/bhagyasri-canumalla.md)
 * [Bill Marino](people/bill-marino.md)
 * [Bochen Wang](people/bochen-wang.md)
-<<<<<<< HEAD
 * [Daniel Speiser](people/daniel-speiser.md)
 * [Jean-Charles Gasche](people/jean-charles-gasche.md)
 * [Nicolas Joseph](people/nicolas-joseph.md)
 * [Haotian Zhang](people/haotian-zhang.md)
 * [Thomas Yang](people/thomas-yang.md)
-=======
 * [Brendan Ritter](people/brendan-ritter.md)
->>>>>>> Cornell-CS5356-Fall2015/master
 * [Brunno Attorre](people/brunno-attorre.md)
 * [Chloe Eghtebas](people/chloe-eghtebas.md)
 * [Claire Opila](people/claire-opila.md)
