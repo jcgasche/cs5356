@@ -74,6 +74,7 @@ Read about guest lectures [here](course/guest-lectures.md).
 
 * [Bochen Wang](people/bochen-wang.md)
 * [Daniel Speiser](people/daniel-speiser.md)
+* [Jean-Charles Gasche](people/jean-charles-gasche.md)
 * [Nicolas Joseph](people/nicolas-joseph.md)
 * [Haotian Zhang](people/haotian-zhang.md)
 * [Thomas Yang](people/thomas-yang.md)
